@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sources.senegalouvert.io/posts/source-senegalouvert/</loc>
+    <loc>https://sources.senegalouvert.io/posts/source-senegalouvert/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sources.senegalouvert.io/categories/</loc>
+    <loc>https://sources.senegalouvert.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://sources.senegalouvert.io/posts/</loc>
+    <loc>https://sources.senegalouvert.io/posts/</loc>
   </url>
   
   <url>
-    <loc>http://sources.senegalouvert.io/</loc>
+    <loc>https://sources.senegalouvert.io/</loc>
   </url>
   
   <url>
-    <loc>http://sources.senegalouvert.io/tags/</loc>
+    <loc>https://sources.senegalouvert.io/tags/</loc>
   </url>
   
 </urlset>
