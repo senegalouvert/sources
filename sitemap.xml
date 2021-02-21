@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sources.senegalouvert.io/posts/source-senegalouvert/</loc>
-    <priority>0</priority>
+    <loc>https://sources.codeforsenegal.org/posts/source-senegalouvert/</loc>
   </url>
   
   <url>
-    <loc>https://sources.senegalouvert.io/categories/</loc>
+    <loc>https://sources.codeforsenegal.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://sources.senegalouvert.io/posts/</loc>
+    <loc>https://sources.codeforsenegal.org/posts/</loc>
   </url>
   
   <url>
-    <loc>https://sources.senegalouvert.io/</loc>
+    <loc>https://sources.codeforsenegal.org/</loc>
   </url>
   
   <url>
-    <loc>https://sources.senegalouvert.io/tags/</loc>
+    <loc>https://sources.codeforsenegal.org/tags/</loc>
   </url>
   
 </urlset>
